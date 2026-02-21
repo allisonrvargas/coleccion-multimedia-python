@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "tipo": "Película",
+        "titulo": "La piedra filosofal",
+        "creador": "Chris Columbus",
+        "genero": "Fantasía",
+        "valoracion": 10.0
+    }
+]
